@@ -26,8 +26,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   &:hover {
-    background: linear-gradient(to right, aquamarine, darkcyan);
-    transition: background 0.3s ease-out;
+    &::before {
+      background: linear-gradient(to right, aquamarine, darkcyan);
+      transition: background 0.3s ease-out;
+    }
   }
 }
 
@@ -37,6 +39,7 @@ blockquote {
   
   &::after {
     content: &rdquo;
+    color: inherit;
     position: absolute;
     right: 10px;
     top: 10px;
