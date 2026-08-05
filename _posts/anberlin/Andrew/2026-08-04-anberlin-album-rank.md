@@ -1,5 +1,5 @@
 ---
-title: Album-rank
+title: Andrew's Anberlin Album Ranking
 date: 2026-08-04
 ---
 
@@ -21,7 +21,7 @@ I'll start from my least favorite and work my way up to the my most favorite. Be
 2. Never Take Friendship Personal (2005)
 1. Cities (2007)
 
---- 
+---
 
 ## Blueprints for the Black Market
 
