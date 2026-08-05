@@ -20,6 +20,9 @@ Frontmatter required for each post:
 ---
 title: Title of post
 date: YYYY-MM-DDD
+---
+
+// Page content 
 ```
 
 To add a post, open a pull request for your article to be added.
